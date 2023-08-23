@@ -1,0 +1,24 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "../../Documents/Projekte/Portfolio-Insurance/Ausarbeitung/Portfolio-Insurance.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "../../Documents/Projekte/Portfolio-Insurance/Ausarbeitung/Portfolio-Insurance.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../Documents/Projekte/Portfolio-Insurance/Ausarbeitung/Portfolio-Insurance.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": true
+    }
+}

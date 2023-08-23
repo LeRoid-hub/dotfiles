@@ -1,0 +1,42 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+        "/Users/janbarfuss/Documents/Projekte/Portfolio-Insurance/Ausarbeitung/mybib.bib#mybib"
+    ],
+    "childdocs": [
+        "/Users/janbarfuss/Documents/Projekte/Portfolio-Insurance/Ausarbeitung/abstract.tex",
+        "/Users/janbarfuss/Documents/Projekte/Portfolio-Insurance/Ausarbeitung/titel.tex"
+    ],
+    "filename": "/Users/janbarfuss/Documents/Projekte/Portfolio-Insurance/Ausarbeitung/Portfolio-Insurance.tex",
+    "labels": [
+        "fig:TIPP",
+        "fig:CPPI"
+    ],
+    "modified": "Mon Aug 21 16:54:08 2023",
+    "packages": [
+        "#barfuss",
+        "#amsmath"
+    ],
+    "refs": [
+    ],
+    "toc": [
+        "-1#titel#4",
+        "-1#abstract#6",
+        "2#Begrifferklärung#9",
+        "3#Begriffe#10",
+        "4#Rainbow Optionen#11",
+        "4#TIPP#16",
+        "3#Variablen#18",
+        "4#Rainbow Optionen#19",
+        "4#TIPP#21",
+        "2#Portfolio Insurcance#31",
+        "2#Riskifaktoren#38",
+        "2#Rainbow Optionen#42",
+        "3#Untersuchungsmethode#60",
+        "2#TIPP#67",
+        "3#Untersuchungsmethode#112"
+    ],
+    "usercommands": [
+    ]
+}
